@@ -1,3 +1,5 @@
+$blue: #337ab7;
+
 body {
   width: 100%;
   font-family: 'Roboto Condensed', sans-serif;
@@ -17,6 +19,10 @@ body {
 	.navbar-brand {
 		font-weight: 800;
 	}
+}
+
+.icon-bar {
+  background-color: $blue;
 }
 
 #homepage {

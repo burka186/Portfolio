@@ -15,6 +15,9 @@ body {
   .navbar-fixed-top .navbar-brand {
     font-weight: 800; }
 
+.icon-bar {
+  background-color: #337ab7; }
+
 #homepage #logo {
   width: 200px;
   height: 200px;
